@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-          Hello everyone !
+          Hello everyone, i'm very happy to see you yo day and have you a nice day!
       </div>
     </>
   )
